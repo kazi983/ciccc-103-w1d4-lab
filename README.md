@@ -20,7 +20,7 @@ You do not need to recreate an entire website. Select a reasonable amount of con
 Create multiple HTML pages such as:
 
 - index.html (Home)
-- about.html
+- aboutus.html
 - projects.html or services.html (rename based on your topic)
 
 All pages must:
